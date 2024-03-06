@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react native projects.<br>👯 I’m looking to collaborate on any KMP project.<br>🤝 I’m looking for help with android, and ios workflow.<br>🌱 I’m currently learning KMP, android, and ios.<br>💬 Ask me about anything. I love programming challenges.<br>⚡ Fun fact light can be either a wave and a particle, this is know as the wave–particle duality.
+🔭 I’m currently working on react native projects.<br>👯 I’m looking to collaborate on any KMP project.<br>🌱 I’m currently learning KMP, android, and ios.<br>💬 Ask me about anything. I love programming challenges.<br>⚡ Fun fact light can be either a wave and a particle, this is know as the wave–particle duality.
 
 
 ## 🌐 Socials:
