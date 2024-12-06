@@ -6,7 +6,6 @@
 ⚡ Fun fact: Light can be both a wave and a particle, known as the wave-particle duality!
 
 ---
-<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-silva-de-borba)
@@ -14,7 +13,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/felipeborba_231)  
 
 ---
-<br/>
 
 ## 💻 Tech Stack:
 **Mobile Development**:  
@@ -31,7 +29,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
 ---
-<br/>
 
 ## 📚 Learning & Exploring:
 - **Flutter** & **Dart** for building mobile apps.
@@ -40,7 +37,6 @@
 - Continuously improving my skills through online courses, tutorials, and hands-on projects!
 
 ---
-<br/>
 
 ## 🛠 Projects:
 ### **Mobile App - Flutter Finance Tracker**
@@ -56,7 +52,6 @@
   [GitHub Repository](link-do-repositorio)
 
 ---
-<br/>
 
 ## 📬 Contact Me:
 - LinkedIn: [https://www.linkedin.com/in/felipe-silva-de-borba/](https://www.linkedin.com/in/felipe-silva-de-borba/)
