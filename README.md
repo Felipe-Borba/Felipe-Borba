@@ -1,19 +1,17 @@
 # 💫 About Me:
 👨‍💻 Full Stack Developer with a strong focus on **Flutter**, **React**, and **Node.js**.  
-🌱 Currently deepening my knowledge in **Flutter** and **Dart**, while working on **React Native** projects.  
+🌱 Currently deepening my knowledge in **Flutter** and **Dart**, while working on **React** projects.  
 🚀 Passionate about building high-performance mobile apps and web solutions.  
 💬 I love discussing programming challenges, software architecture, and the latest tech trends.  
 ⚡ Fun fact: Light can be both a wave and a particle, known as the wave-particle duality!
 
-<!-- --- -->
-<br/>
+<!-- <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-silva-de-borba)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15509455)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/felipeborba_231)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/felipeborba_231)   -->
 
-<!-- --- -->
 <br/>
 
 ## 💻 Tech Stack:
@@ -30,12 +28,11 @@
 **DevOps**:  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
-<!-- --- -->
 <br/>
 
 ## 📚 Learning & Exploring:
-- **Flutter** & **Dart** for building mobile apps.
-- **React & React Native** for web and cross-platform mobile development.
+- **Flutter** & **Dart** for building mobile and cross-platform apps.
+- **React** for web development.
 - **Node.js** & **Express** for backend development and building scalable APIs.
 - Continuously improving my skills through online courses, tutorials, and hands-on projects!
 
@@ -55,7 +52,6 @@ TODO pegar os link dos meus projetos para colocar aqui
 - A **Node.js** API with **Express**, managing user authentication and data storage in **PostgreSQL**, following best practices in API development.  
   [GitHub Repository](link-do-repositorio) -->
 
-<!-- --- -->
 <br/>
 
 ## 📬 Contact Me:
