@@ -36,6 +36,11 @@
 - **Node.js** & **Express** for backend development and building scalable APIs.
 - Continuously improving my skills through online courses, tutorials, and hands-on projects!
 
+<br/>
+
+## 🛠 Projects:
+Some of my projects are pinned below.
+
 <!-- ---
 <br/>
 TODO pegar os link dos meus projetos para colocar aqui
@@ -52,8 +57,8 @@ TODO pegar os link dos meus projetos para colocar aqui
 - A **Node.js** API with **Express**, managing user authentication and data storage in **PostgreSQL**, following best practices in API development.  
   [GitHub Repository](link-do-repositorio) -->
 
-<br/>
+<!-- <br/>
 
 ## 📬 Contact Me:
 - LinkedIn: [https://www.linkedin.com/in/felipe-silva-de-borba/](https://www.linkedin.com/in/felipe-silva-de-borba/)
-- E-mail: [felipe.borba0109@gmail.com](mailto:felipe.borba0109@gmail.com)
+- E-mail: [felipe.borba0109@gmail.com](mailto:felipe.borba0109@gmail.com) -->
